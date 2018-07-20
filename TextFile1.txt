@@ -1,7 +1,7 @@
 Learning Git!
 
 Add new Line Again !
-
+B is updating this line from same file as of B's..
 Git Test 1
 
 B updated TextFile1..
