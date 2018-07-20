@@ -6,4 +6,4 @@ Git Test 1
 
 B updated TextFile1..
 A is updating this line
-B has started tp work on same shared line..
+A and B has started tp work on same shared line..
