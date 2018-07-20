@@ -6,3 +6,4 @@ Git Test 1
 
 B updated TextFile1..
 A is updating this line
+A has started to work on shared line..
