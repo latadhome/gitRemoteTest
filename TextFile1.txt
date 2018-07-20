@@ -5,3 +5,4 @@ Add new Line Again !
 Git Test 1
 
 B updated TextFile1..
+A is updating this line
