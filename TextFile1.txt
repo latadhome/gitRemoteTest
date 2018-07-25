@@ -12,3 +12,5 @@ A has fixed one more issue
 B is doing a bunch of changes in textfile1...
 
 Changes on the Develope..
+
+A is playing with the Develop branch
