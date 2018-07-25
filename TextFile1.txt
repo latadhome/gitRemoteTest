@@ -8,3 +8,4 @@ B updated TextFile1..
 A is updating this line
 A and B has started tp work on same shared line..
 A has fixed an importnant issue ... everyone should pull this code in their active branch ASAP
+A has fixed one more issue
